@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+
+  "name": "xpand",
+  "description": "Automatically find and load the full version of an image from Tumblr and Deviantart.",
+  "version": "0.1",
+
+  "permissions": [
+    "tabs",
+    "http://*.tumblr.com/",
+    "https://*.tumblr.com/",
+    "http://*.deviantart.net/",
+    "https://*.deviantart.net/"
+  ],
+  "background": {
+    "scripts": [ "content.js" ]
+  }
+}
