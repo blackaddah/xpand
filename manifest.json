@@ -10,7 +10,9 @@
     "http://*.tumblr.com/",
     "https://*.tumblr.com/",
     "http://*.deviantart.net/",
-    "https://*.deviantart.net/"
+    "https://*.deviantart.net/",
+    "http://*.twimg.com/",
+    "https://*.twimg.com/"
   ],
   "background": {
     "scripts": [ "content.js" ]
